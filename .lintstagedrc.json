@@ -1,0 +1,8 @@
+{
+  "**/*.{js,vue}": [
+    "npm run lint:fix"
+  ],
+  "**/*.{scss,css}": [
+    "npm run stylelint"
+  ]
+}
