@@ -100,10 +100,16 @@ This project contains a script that will run arbitrary shell tasks with a list o
 
 ## Referrences
 
-[0]: https://eslint.org/docs/latest/use/getting-started
-[1]: https://prettier.io/docs/en/install
-[2]: https://github.com/primer/stylelint-configs
-[3]: https://stylelint.io/user-guide/get-started
-[4]: https://www.npmjs.com/package/husky
-[5]: https://www.npmjs.com/package/lint-staged
-[6]: https://github.com/conventional-changelog/commitlint
+https://eslint.org/docs/latest/use/getting-started
+
+https://prettier.io/docs/en/install
+
+https://github.com/primer/stylelint-configs
+
+https://stylelint.io/user-guide/get-started
+
+https://www.npmjs.com/package/husky
+
+https://www.npmjs.com/package/lint-staged
+
+https://github.com/conventional-changelog/commitlint
