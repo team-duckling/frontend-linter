@@ -3,13 +3,61 @@
 
 ## EsLint
 
-TBD
+ESLint is a tool for identifying and reporting on patterns found in ECMAScript/JavaScript code, with the goal of making code more consistent and avoiding bugs.
+
+ESLint is completely pluggable. Every single rule is a plugin and you can add more at runtime. You can also add community plugins, configurations, and parsers to extend the functionality of ESLint.
+
+[Getting Started with ESLint](https://eslint.org/docs/latest/use/getting-started)
 ## Prettier Lint
 
-TBD
+[What is Prettier?](https://prettier.io/docs/en/why-prettier)
+
+[Why Prettier?](https://prettier.io/docs/en/why-prettier)
 ## Style Lint
 
-TBD
+A mighty CSS linter that helps you avoid errors and enforce conventions.
+
+### Features
+
+It's mighty as it:
+
+- has over **100 built-in rules** for modern CSS syntax and features
+- supports **plugins** so you can create your own custom rules
+- automatically **fixes problems** where possible
+- supports **shareable configs** that you can create or extend
+- can **be customized** to your exact needs
+- has **15k unit tests** making it robust
+- is **trusted by companies worldwide** like Google and GitHub
+
+And it can be extended to:
+
+- extract **embedded styles** from HTML, Markdown and CSS-in-JS template literals
+- parse **CSS-like languages** like SCSS, Sass, Less and SugarSS
+
+### How it'll help you
+
+It'll help you **avoid errors**, for example:
+
+- invalid things, e.g. malformed grid areas
+- valid things that are problematic, e.g. duplicate selectors
+- unknown things, e.g. misspelled property names
+
+And **enforce conventions**, for example:
+
+- disallow things, e.g. specific units
+- enforce naming patterns, e.g. for custom properties
+- set limits, e.g. the number of ID selectors
+- specify notations, e.g. for modern color functions
+
+We recommend using a pretty printer like Prettier alongside Stylelint. Linters and pretty printers are complementary tools that work together to help you write consistent and error-free code.
+
+### Example output
+
+<p align="center">
+  <img width="600" src="docs/assets/stylelint-example.png">
+</p>
+
+
 ## Commit Lint
 
 <p align="center">
